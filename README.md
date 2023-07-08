@@ -7,7 +7,7 @@
 
 🚀 Estoy en busca de un trabajo remoto.
 
-🌄 Vivo en contacto con la naturaleza en una zona rural de Argentina.
+🌄 Vivo en en una zona rural de Argentina.
 
 ## Tecnologías que utilizo:
 
