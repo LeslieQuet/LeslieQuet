@@ -1,5 +1,5 @@
 # Hola, Bienvenid@! Soy Leslie, full stack developer 😊
-<img align="right" width="400px" src="https://i.gifer.com/VNCa.gif" />
+<img align="right" width="400px" src="https://i.gifer.com/VNCa.gif">
 
 👩🏻‍💻 Tengo experiencia desarrollando API REST y SPAs trabajando con React, Redux, Angular, HTML, CSS, Chakra UI, Node, Express, TypeORM, Sequelize y Postgres.
 
