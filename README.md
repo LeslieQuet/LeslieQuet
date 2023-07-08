@@ -2,8 +2,11 @@
 <img style= "margin-top: 40;" align="right" width="400px" src=https://i.gifer.com/VNCa.gif />
 
 👩🏻‍💻 Tengo experiencia desarrollando API REST y SPAs trabajando con React, Redux, Angular, HTML, CSS, Chakra UI, Node, Express, TypeORM, Sequelize y Postgres.
+
 🌱 Estoy afianzando mis conocimientos en Typescript.
+
 🚀 Estoy en busca de un trabajo remoto.
+
 🌄 Vivo en contacto con la naturaleza en una zona rural de Argentina.
 
 ## Tecnologías que utilizo:
